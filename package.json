@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "#### Description 简单练习nuxtjs技术，练习完成删除\r 开始日期：20200808",
   "main": "index.js",
+  "homepage": "https://github.com/muqingyan1/nuxtjs_realworld/",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
