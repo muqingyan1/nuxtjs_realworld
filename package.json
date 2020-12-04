@@ -1,0 +1,26 @@
+{
+  "name": "realworld-nuxtjs",
+  "version": "1.0.0",
+  "description": "#### Description 简单练习nuxtjs技术，练习完成删除\r 开始日期：20200808",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:muqingyan/realworld-nuxtjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cookieparser": "^0.1.0",
+    "dayjs": "^1.9.6",
+    "js-cookie": "^2.2.1",
+    "markdown-it": "^12.0.2",
+    "nuxt": "^2.14.7"
+  }
+}

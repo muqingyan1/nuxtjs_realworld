@@ -1,0 +1,56 @@
+[
+  {
+    "path": "/",
+    "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\muqingyan-realworld-nuxtjs-master\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\muqingyan-realworld-nuxtjs-master\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_ff9b1d08"
+      },
+      {
+        "path": "/home",
+        "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\muqingyan-realworld-nuxtjs-master\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_ff9b1d08"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\muqingyan-realworld-nuxtjs-master\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_f357f328"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\muqingyan-realworld-nuxtjs-master\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_f357f328"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\muqingyan-realworld-nuxtjs-master\\\\realworld-nuxtjs\\\\pages\\\\profile",
+        "_name": "_1a92ebec"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\muqingyan-realworld-nuxtjs-master\\\\realworld-nuxtjs\\\\pages\\\\article",
+        "_name": "_015d2f39"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\muqingyan-realworld-nuxtjs-master\\\\realworld-nuxtjs\\\\pages\\\\settings",
+        "_name": "_6deabb80"
+      },
+      {
+        "path": "/editor/:slug?",
+        "name": "editor",
+        "component": "C:\\\\Users\\\\Admin\\\\Desktop\\\\muqingyan-realworld-nuxtjs-master\\\\realworld-nuxtjs\\\\pages\\\\editor",
+        "_name": "_37a0eaca"
+      }
+    ],
+    "_name": "_436fc487"
+  }
+]
