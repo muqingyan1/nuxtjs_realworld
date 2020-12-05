@@ -7,7 +7,6 @@
             <h1>{{ article.title }}</h1>
 
             <article-meta :article="article" />
-            <h1>22222</h1>
 
         </div>
     </div>
