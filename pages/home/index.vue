@@ -4,7 +4,7 @@
     <div class="banner">
         <div class="container">
         <h1 class="logo-font">conduit</h1>
-        <p>A place to share your knowledge.</p>
+        <p>A place</p>
         </div>
     </div>
 
@@ -235,7 +235,7 @@ export default {
     methods: {
         async onFavorite (article) {
             if (!this.user ) return this.$router.push('/login')
-            
+
             article.favoriteDisabled = true
             if (article.favorited) {
                 await deleteFavorite(article.slug)
