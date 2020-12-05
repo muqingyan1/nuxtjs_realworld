@@ -7,6 +7,7 @@
             <h1>{{ article.title }}</h1>
 
             <article-meta :article="article" />
+            <h1>22222</h1>
 
         </div>
     </div>
@@ -30,9 +31,9 @@
                 <article-comments v-if="user" :article="article" />
 
                 <p v-else style="display: inherit;">
-                    <nuxt-link to="/login">Sign in</nuxt-link> or 
+                    <nuxt-link to="/login">Sign in</nuxt-link> or
                     <nuxt-link to="/register">sign up</nuxt-link> to add comments on this article.
-                </p> 
+                </p>
             </div>
 
         </div>
